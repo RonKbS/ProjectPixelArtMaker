@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-https://ronkbs.github.io/project-pixel-art-maker-starter/
+https://ronkbs.github.io/ProjectPixelArtMaker/
 
 ## Table of Contents
 
